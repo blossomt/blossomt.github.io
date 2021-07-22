@@ -1,6 +1,6 @@
 <span id="a">blossom@me</span>:<span id="b">~</span><span id="c">$</span> cd blossom/about
 <span id="a">blossom@me</span>:<span id="b">~/blossom/about</span><span id="c">$</span> cat blossom.txt<br/><br/>
-My favorite code quote is "<span id="k">how do i centre a div?</span>".
+My favorite code quote is <span id="a">"how do i centre a div?"</span>.
   _         _                                            
  | |__     | |     ___     ___     ___     ___    _ __   
  | '_ \    | |    / _ \   (_-<    (_-<    / _ \  | '  \  
@@ -20,4 +20,4 @@ Technologies used include
 
 Connect with me on <a href="https://www.linkedin.com/in/blossom-tang/">LinkedIn</a>!
 
-<span id="a">blossom@me</span>:<span id="b">~/blossom/about</span><span id="c">$</span> exit
+<span id="a">blossom@me</span>:<span id="b">~/blossom/about</span><span id="c">$</span>
